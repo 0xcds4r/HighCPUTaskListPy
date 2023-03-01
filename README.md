@@ -5,7 +5,7 @@ the program also finds those processes that affect performance and load your PC.
 
 To kill the process that you think is the source of all the trouble, use the following command in cmd:
 ```
-**taskkill /f /im NAME**
+taskkill /f /im NAME
 ```
 
 For example:
