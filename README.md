@@ -14,3 +14,7 @@ Process with highest CPU usage:
 {'name': 'fc.exe', 'memory_percent': 0.014904168830207253, 'cpu_percent': 520.8, 'pid': 4832}
 ```
 fc.exe here is a NAME
+
+```
+taskkill /f /im fc.exe
+```
